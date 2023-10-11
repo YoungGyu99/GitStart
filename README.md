@@ -63,3 +63,19 @@
 ```
 - 항목1
   -항목 1-1
+
+  13.이모지 추가하기 관련 URL
+  [이모지검색 및 다운로드 사이트](https://emojipedia.org/_)
+  - 오늘의 날씨는 ☀️
+  - 👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻
+  - 🥇💯
+ 
+14.배지 추가
+[배지 달기(언어, 기술, 개발 도구, 자격) ](https://simpleicons.org)
+``` 배지 샘플 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white" />```
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=ORACLE&logoColor=F80000" />
+- style 배지모양(plastic, flat, flat-square, for-the-bage, social), logo 정식모양 사이트참조, logoColor 컬럼
+
